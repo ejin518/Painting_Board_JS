@@ -1,3 +1,3 @@
 # Painting board app
-Painting board app made with Vanilla JS.
+Painting board app made with Vanilla JS.<br>
 You can draw and paint on board, and save it as jpg file.
